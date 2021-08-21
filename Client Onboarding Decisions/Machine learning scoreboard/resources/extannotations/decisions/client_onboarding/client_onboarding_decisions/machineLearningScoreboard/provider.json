@@ -1,0 +1,9 @@
+{
+  "name" : "decisions/Client-Onboarding/OPS1629524272680",
+  "type" : "OPS",
+  "description" : "",
+  "mlUrl" : "http://open-prediction-ads-ml-service.techjam-aug21-0efee79b270952a7ed81756a80093a9c-0000.us-south.containers.appdomain.cloud",
+  "authUrl" : "",
+  "instanceId" : "",
+  "apiKey" : null
+}
